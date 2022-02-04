@@ -6,7 +6,7 @@ const App = (): JSX.Element => {
 
   return (
     <main>
-      <h1>hello dillahrahim</h1>
+      <h1>hello</h1>
     </main>
   );
 };
